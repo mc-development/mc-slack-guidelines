@@ -202,7 +202,7 @@ Slackアプリのダウンロードは以下のリンクから行ってくださ
 - チャンネル全体へ共有したい重要な情報については、ピン留め機能等を使用して目立たせましょう。
 
 ## チャンネル名について
-- 後述する[命名規則](https://github.com/mc-development/mc-slack-guidelines/edit/main/Slack_Guidelines_Ja.md#%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E5%91%BD%E5%90%8D%E8%A6%8F%E5%89%87)に沿ったチャンネル名を付けましょう。
+- 後述する[命名規則](https://github.com/mc-development/mc-slack-guidelines/blob/main/Slack_Guidelines_Ja.md#%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E5%91%BD%E5%90%8D%E8%A6%8F%E5%89%87)に沿ったチャンネル名を付けましょう。
 
 <br>
 <br>
@@ -527,7 +527,7 @@ Aさんは知ってるけどBさんCさんは知らないことがある事で
 - [Slack通知を設定する](https://slack.com/intl/ja-jp/help/articles/201355156-Slack-%E9%80%9A%E7%9F%A5%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B)
 
 ## 基本設定
-- [上記](https://github.com/mc-development/mc-slack-guidelines/edit/main/Slack_Guidelines_Ja.md#%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95%E5%85%AC%E5%BC%8F%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB)の公式マニュアルに従い、以下の通知設定を実施してください。
+- [上記](https://github.com/mc-development/mc-slack-guidelines/blob/main/Slack_Guidelines_Ja.md#%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95%E5%85%AC%E5%BC%8F%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB)の公式マニュアルに従い、以下の通知設定を実施してください。
 - 「通知のタイミング」設定は、「すべての新規メッセージ」または「ダイレクトメッセージ&メンション&キーワード」をお好みで設定してください。
 - 「フォロー中のスレッドに返信があった時に通知する」にチェック。
 - その他設定項目はお好みで設定してください。
